@@ -9,7 +9,7 @@ This course is integrated with GitHub Codespaces, an instant cloud developer env
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
-This repository has folders for each of the videos in the course. Each folder corresponds to a chapter and the sample file mentioned in the videos. 
+This repository haas folders for each of the videos in the course. Each folder corresponds to a chapter and the sample file mentioned in the videos. 
 
 
 ## Installing
